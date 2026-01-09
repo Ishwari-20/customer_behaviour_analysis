@@ -1,6 +1,7 @@
 # customer_behaviour_analysis
 End to end customer behavior analysis with sql, python and power BI dashbord
 
+<img width="1316" height="702" alt="Screenshot 2026-01-09 121654" src="https://github.com/user-attachments/assets/9cdcd563-a3e6-43a7-bdd4-d59a8a1201c1" />
 
 
 # Data Analysis with Python
