@@ -1,5 +1,5 @@
 # customer_behaviour_analysis
-End to end customer behaviour analysis with sql, python and power BI dashbord
+End to end customer behavior analysis with sql, python and power BI dashbord
 
 
 
@@ -53,6 +53,15 @@ In this, we understood purchasing patterns, cleaned and prepared raw data and pe
 <img width="979" height="683" alt="Screenshot 2025-12-26 142149" src="https://github.com/user-attachments/assets/6e664fca-142a-4735-9600-937e7c8da8cd" />
 8. What is the revenue contribution of each age group? 
 <img width="989" height="407" alt="Screenshot 2025-12-26 142211" src="https://github.com/user-attachments/assets/53c66b91-830e-42a0-9521-1b081647be19" />
+
+# Power BI Dashboard for customer behavior analysis
+1. Loading cleaned, prepared and ready dataset to power BI.
+<img width="1918" height="785" alt="Screenshot 2026-01-09 101908" src="https://github.com/user-attachments/assets/72159943-a947-4b4e-958c-402ea8c62431" />
+2. <img width="1316" height="702" alt="Screenshot 2026-01-09 121654" src="https://github.com/user-attachments/assets/466645f8-704d-499a-9470-32a690872c77" />
+<img width="1325" height="702" alt="Screenshot 2026-01-09 121717" src="https://github.com/user-attachments/assets/544de747-13d3-4d92-8b29-6acb63dd6843" />
+<img width="1327" height="710" alt="Screenshot 2026-01-09 121752" src="https://github.com/user-attachments/assets/b3333cc2-5a40-4bc6-928f-d29e2f807053" />
+
+
 
 
 
